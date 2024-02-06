@@ -22,7 +22,7 @@
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{f84d078c-d938-4d25-a21b-c7fbe8bd86f3}</ProjectGuid>
-    <RootNamespace>cPlusLabTest</RootNamespace>
+    <RootNamespace>PatientExtension</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
